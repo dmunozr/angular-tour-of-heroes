@@ -1,3 +1,7 @@
+# Solution of the tutorial "Angular tour of Heroes"
+
+This repository just contains the whole code that I implemented by doing the tutorial [Angular tour of Heroes](https://angular.io/tutorial).
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
